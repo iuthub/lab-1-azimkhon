@@ -1,0 +1,19 @@
+body {
+	background-color: #ff99;
+	font-size: 14px;
+}
+
+h3 {
+	color: #0026FFFF;
+	font-family: "Verdana";
+}
+
+a:hover {
+	color: red;
+	font-weight: bold;
+}
+
+
+
+
+
