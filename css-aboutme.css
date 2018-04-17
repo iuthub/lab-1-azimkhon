@@ -1,0 +1,26 @@
+body {
+	background-color: #ff99;
+	font-size: 14px;
+}
+
+p::first-letter {
+	font-size: 150%;
+}
+
+h3 {
+	color: #0026FFFF;
+	font-family: "Verdana";
+}
+a {
+	color: red;
+}
+a:hover {
+	color: green;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
+
+
